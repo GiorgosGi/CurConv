@@ -19,7 +19,7 @@ namespace CurConv
 
         private void button1_Click(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("https://cuex.com/en");
+            webBrowser1.Navigate("https://eurozap.gr/metatroph-euro.php");
         }
     }
 }
